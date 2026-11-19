@@ -1,7 +1,18 @@
 # 📘 INFOS CLÉS — Maison Léonie
 
 > Fichier de référence du projet. Tout ce qu'il faut savoir est ici.
-> Dernière mise à jour : 18 novembre 2026.
+> Dernière mise à jour : 19 novembre 2026.
+
+## 🌐 Le site est en ligne
+
+| Emplacement | Adresse |
+|---|---|
+| **Site public** (production) | https://maison-leonie-zeta.vercel.app |
+| Déploiement précis | https://maison-leonie-hzigghm98-kdaviddiane-kings-projects.vercel.app |
+| **Code source** | https://github.com/kdaviddiane-king/maison-leonie (public) |
+| Dossier local | `C:\Users\kdavi\Documents\boutique` (**plus dans OneDrive**) |
+
+> Chaque `git push` sur `main` redéploie automatiquement le site sur Vercel.
 
 ---
 

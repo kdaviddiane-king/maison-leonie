@@ -6,6 +6,9 @@ l'instant, tout est prévu pour les ajouter plus tard.
 
 Construit avec **Next.js 16** et **Tailwind CSS 4**.
 
+> 🌐 **Site en ligne** : https://maison-leonie-zeta.vercel.app
+> 💻 **Code source** : https://github.com/kdaviddiane-king/maison-leonie
+>
 > 📘 **Toutes les informations du projet sont rassemblées dans
 > [`INFOS-CLES.md`](./INFOS-CLES.md)** : commandes, structure, ajout de
 > produits, design, déploiement et notes techniques.
