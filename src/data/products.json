@@ -1,0 +1,152 @@
+[
+  {
+    "slug": "vase-solene",
+    "name": "Vase Solène",
+    "category": "Céramique",
+    "price": 48,
+    "isNew": true,
+    "inStock": true,
+    "image": "/images/products/vase-solene.jpg",
+    "description": "Un vase en grès émaillé, tourné à la main dans un atelier du Var. Sa silhouette généreuse accueille aussi bien un bouquet de saison qu'une simple branche de eucalyptus.",
+    "details": [
+      "Grès émaillé, cuisson haute température",
+      "Hauteur 26 cm · Diamètre 14 cm",
+      "Pièce unique : de légères variations de teinte sont possibles"
+    ]
+  },
+  {
+    "slug": "plaid-laine-alpes",
+    "name": "Plaid Laine des Alpes",
+    "category": "Textile",
+    "price": 89,
+    "isNew": false,
+    "inStock": true,
+    "image": "/images/products/plaid-laine-alpes.jpg",
+    "description": "Tissé dans une filature familiale des Alpes, ce plaid en laine mérinos garde la chaleur sans peser. Ses franges nouées à la main lui donnent une allure franchement montagnarde.",
+    "details": [
+      "100 % laine mérinos",
+      "130 × 180 cm",
+      "Lavage à froid ou nettoyage à sec"
+    ]
+  },
+  {
+    "slug": "bougie-cedre-figue",
+    "name": "Bougie Cèdre & Figue",
+    "category": "Décoration",
+    "price": 32,
+    "isNew": true,
+    "inStock": true,
+    "image": "/images/products/bougie-cedre-figue.jpg",
+    "description": "Une bougie coulée à la main en cire végétale, entre le boisé du cèdre et la douceur sucrée de la figue. Environ 45 heures de diffusion.",
+    "details": [
+      "Cire de soja et colza, mèche coton",
+      "Contenant en verre ambré, 220 g",
+      "Durée de combustion : environ 45 h"
+    ]
+  },
+  {
+    "slug": "bols-terracotta",
+    "name": "Bols Terracotta",
+    "category": "Céramique",
+    "price": 56,
+    "isNew": true,
+    "inStock": true,
+    "image": "/images/products/bols-terracotta.jpg",
+    "description": "Deux bols en terre cuite non émaillée à l'extérieur, émaillés à l'intérieur. Parfaits pour le petit-déjeuner, les fruits ou simplement posés sur une étagère.",
+    "details": [
+      "Terre cuite, émail alimentaire",
+      "Diamètre 15 cm · Hauteur 7 cm",
+      "Vendus par deux, compatibles lave-vaisselle"
+    ]
+  },
+  {
+    "slug": "coussin-lin-brut",
+    "name": "Coussin Lin Brut",
+    "category": "Textile",
+    "price": 45,
+    "isNew": false,
+    "inStock": true,
+    "image": "/images/products/coussin-lin-brut.jpg",
+    "description": "Un coussin en lin lavé, souple et légèrement froissé, avec une fermeture invisible. Le genre de pièce qu'on garde dix ans sans s'en lasser.",
+    "details": [
+      "100 % lin lavé",
+      "45 × 45 cm",
+      "Housse déhoussable, garnissage inclus"
+    ]
+  },
+  {
+    "slug": "collier-perle-ambre",
+    "name": "Collier Perle d'Ambre",
+    "category": "Bijoux",
+    "price": 72,
+    "isNew": true,
+    "inStock": true,
+    "image": "/images/products/collier-perle-ambre.jpg",
+    "description": "Une perle d'ambre montée sur une chaîne fine en laiton doré. Un bijou discret, porté seul ou superposé avec d'autres chaînes.",
+    "details": [
+      "Laiton doré à l'or fin 24 carats",
+      "Chaîne 42 cm, réglable",
+      "Perle d'ambre naturelle"
+    ]
+  },
+  {
+    "slug": "miroir-ovale-chene",
+    "name": "Miroir Ovale Chêne",
+    "category": "Décoration",
+    "price": 145,
+    "isNew": false,
+    "inStock": false,
+    "image": "/images/products/miroir-ovale-chene.jpg",
+    "description": "Un miroir ovale à cadre en chêne massif, assemblé à la main. Sa forme douce habille une entrée ou un coin de chambre sans jamais prendre toute la place.",
+    "details": [
+      "Chêne massif huilé, verre miroir",
+      "Hauteur 70 cm · Largeur 45 cm",
+      "Fixation murale verticale ou horizontale"
+    ]
+  },
+  {
+    "slug": "carafe-ondine",
+    "name": "Carafe Ondine",
+    "category": "Céramique",
+    "price": 64,
+    "isNew": false,
+    "inStock": true,
+    "image": "/images/products/carafe-ondine.jpg",
+    "description": "Une carafe en grès gris-bleu au galbe arrondi, émaillée à la main. Elle se remplit d'eau, de vin ou de fleurs coupées, selon l'envie.",
+    "details": [
+      "Grès émaillé",
+      "Contenance 1 L · Hauteur 24 cm",
+      "Compatible lave-vaisselle, éviter le choc thermique"
+    ]
+  },
+  {
+    "slug": "serviettes-lin",
+    "name": "Serviettes de Table en Lin",
+    "category": "Textile",
+    "price": 38,
+    "isNew": false,
+    "inStock": true,
+    "image": "/images/products/serviettes-lin.jpg",
+    "description": "Quatre serviettes en lin naturel, ourlées à la main. Elles se froissent joliment et gagnent en douceur à chaque lavage.",
+    "details": [
+      "100 % lin européen",
+      "45 × 45 cm, lot de 4",
+      "Lavage en machine à 40 °C"
+    ]
+  },
+  {
+    "slug": "bagues-lune-argent",
+    "name": "Bagues Lune en Argent",
+    "category": "Bijoux",
+    "price": 54,
+    "isNew": false,
+    "inStock": true,
+    "image": "/images/products/bagues-lune-argent.jpg",
+    "description": "Trois anneaux fins en argent 925, à porter ensemble ou séparément. Leur surface martelée accroche doucement la lumière.",
+    "details": [
+      "Argent massif 925 martelé",
+      "Tailles 50, 52 et 54 disponibles",
+      "Livré dans une pochette en coton"
+    ]
+  }
+]

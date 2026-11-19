@@ -24,6 +24,9 @@
 .DS_Store
 *.pem
 
+# éditeur (paramètres locaux, pas utiles aux autres)
+.vscode/
+
 # debug
 npm-debug.log*
 yarn-debug.log*
