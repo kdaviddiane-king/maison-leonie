@@ -31,6 +31,7 @@
 11. [Dépannage](#11-dépannage)
 12. [Décisions prises et pourquoi](#12-décisions-prises-et-pourquoi)
 13. [Notes techniques du projet](#13-notes-techniques-du-projet)
+14. [Explication simple](#14-explication-simple)
 
 ---
 
@@ -483,3 +484,63 @@ git commit -m "Catalogue Maison Léonie : version initiale"
 - **Changer le nom/adresse** : `Header.js` + `Footer.js`
 - **Publier** : GitHub → Vercel
 - **Pas encore fait** : envoi du formulaire, panier, paiement, mentions légales
+
+---
+
+## 14. Explication simple
+
+Une version sans jargon, à lire si les sections précédentes semblent trop techniques.
+
+### L'idée de départ
+
+Tu voulais une vitrine pour une boutique. Comme quand tu regardes de jolis objets à travers une vitre, sans pouvoir les acheter. Pas de caisse, pas de panier. J'ai inventé une boutique appelée Maison Léonie.
+
+### Le site est une maison avec des pièces
+
+L'entrée accueille le visiteur. La boutique contient tous les objets. Les nouveautés montrent les derniers arrivages. Chaque objet a sa propre petite page avec sa photo, son prix et ses détails. Il y a aussi une page contact et une page qui raconte l'histoire de la boutique.
+
+### Le cahier des objets
+
+Tous les objets sont notés dans un seul cahier : `src/data/products.json`. Quand tu ajoutes une ligne, l'objet apparaît tout seul dans la boutique, dans les nouveautés, dans sa catégorie, et il reçoit sa propre page. Sa photo se met dans le tiroir `public/images/products/`.
+
+### La boîte de peinture
+
+Les couleurs sont rangées dans `globals.css`. Si tu changes une couleur, tout le site change d'un coup.
+
+### Le crayon
+
+VS Code est le cahier avec un crayon. Quand tu enregistres avec Ctrl plus S, le site se met à jour tout de suite.
+
+### Les deux fenêtres
+
+Tu peux regarder le site dans deux fenêtres : le volet Review d'OpenCode et ton navigateur Chrome. Les deux montrent la même chose.
+
+### Le grand sac dans le ciel
+
+GitHub est un sac qui garde tes dessins sur internet et ne les perd jamais. Pour y mettre un nouveau dessin, tu fais trois gestes :
+
+```bash
+git add -A
+git commit -m "J'ai ajouté une photo"
+git push
+```
+
+Le premier geste range les dessins dans le sac. Le deuxième prend une photo souvenir. Le troisième donne la photo au facteur, qui la monte dans le ciel. Le sac est public, donc n'importe qui peut le regarder : ne mets jamais de secret dedans.
+
+### La vitrine dans la rue
+
+GitHub garde les dessins mais ne les montre pas aux visiteurs. Vercel installe la vitrine dans une rue où tout le monde passe. Quand tu fais `git push`, la vitrine change toute seule. C'est ce qui s'est passé aujourd'hui : un texte modifié, puis la vitrine mise à jour en 29 secondes.
+
+### La valise trop lourde
+
+Au début, le projet était dans OneDrive, une valise qui suit partout. Elle portait deux grosses boîtes inutiles : les outils de travail et les restes de cuisine du site. On a déplacé le projet dans un tiroir normal : `C:\Users\kdavi\Documents\boutique`. La valise est maintenant légère.
+
+### Les trois choses à retenir
+
+1. Les objets sont dans `src/data/products.json`.
+2. Le site en ligne est sur `https://maison-leonie-zeta.vercel.app`.
+3. Pour mettre à jour : `git add`, `git commit`, `git push`.
+
+### Les finitions à venir
+
+Mettre les vraies photos, remplacer le nom Maison Léonie, brancher le formulaire pour qu'il envoie vraiment un e-mail, ajouter les mentions légales, puis installer un panier et un paiement plus tard.
